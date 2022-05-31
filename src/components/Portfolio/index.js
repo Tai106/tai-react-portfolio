@@ -38,9 +38,17 @@ function Portfolio() {
 		{
 			name: 'Travela',
 			description:
-				'This project intends to provide a desired trip location itinerary for the user. That information will then display the Hotels, Restuarants, Attractions, and ratings for multiple locations using information obtained from external APIs. The APIs that we used are google Maps API & The Stripe API.',
+				'This project provides a desired trip location itinerary for the user. That information will then display the Hotels, Restuarants, Attractions, and ratings for multiple locations using info from external APIs.',
 			image: 'travela.JPG',
-			technologies: ['REACT', 'JavaScript', 'MongoDB', 'Mongoose', 'PWA', 'MERN'],
+			technologies: [
+				'REACT', 
+			    'JavaScript', 
+				'MongoDB', 
+			    'Mongoose', 
+				'PWA', 
+				'MERN',
+
+			],
 			github: 'https://github.com/AlessandroB96/Travela.git',
 			deployed: 'http://travelamap.herokuapp.com/',
 		},
@@ -81,7 +89,7 @@ function Portfolio() {
 		{
 			name: 'Password Generator',
 			description:
-				'An application that a employee can use to generate a random password based on criteria they’ve selected. This app will run in the browser, and will feature dynamically updated HTML and CSS powered by JavaScript.',
+				'An application that generates a random password based on criteria the user selected. This app will run in the browser, and will feature dynamically updated HTML and CSS powered by JavaScript.',
 			image: 'password-gen.jpg',
 			technologies: ['HTML/CSS', 'JavaScript'],
 			github: 'https://github.com/Tai106/password-generator.git',

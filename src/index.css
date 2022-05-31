@@ -5,13 +5,13 @@ main {
 }
 
 :root {
-	--primary: #499167;
+	--primary: #496b91;
 	--secondary: #2E282A;
 	--tertiary: #f0f2a6;
-	--quaternary: #39a9db;
+	--quaternary: #f0f2a6;
 	--quinary: #bfd7ea;
 	--light: #bfd7ea;
-	--dark: #353831;
+	--dark: #547786;
 	--darker: #39a9db;
 	--error: rgb(228, 46, 1);
 	--spacing-one: calc(1rem * 0.5);
@@ -83,7 +83,7 @@ p {
 }
 
 a {
-	color: red;
+	color: rgb(0, 195, 255);
 	text-decoration: none;
 	font-weight: bold;
 	border-radius: 5px;
@@ -113,7 +113,7 @@ button {
 	background: var(--quaternary);
 	border: 0;
 	border-radius: .5rem;
-	color: #fff;
+	color: rgb(30, 184, 223);
 	cursor: pointer;
 	font-size: 16px;
 	font-weight: 600;

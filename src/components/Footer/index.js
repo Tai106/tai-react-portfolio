@@ -31,13 +31,13 @@ function Footer() {
 			</div>
 			<div>
 				<a
-					href=""
+					href="https://stackoverflow.com/users/17120931/tai?tab=profile"
 					target="_blank"
 					rel=""
 				>
 					<img
-						src={require("../../assets/logos/twitter-logo.png")}
-						alt="Twitter"
+						src={require("../../assets/logos/stack-logo.JPG")}
+						alt="Stack overflow"
 						className="logo"
 					></img>
 				</a>
