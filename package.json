@@ -1,8 +1,8 @@
 {
-  "homepage": "https://tai106.github.io/tai-react-portfolio/",
   "name": "tai-react-portfolio",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://tai106.github.io/tai-react-portfolio/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.4",
     "@testing-library/react": "^13.2.0",
@@ -18,7 +18,9 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": [
@@ -39,6 +41,6 @@
     ]
   },
   "devDependencies": {
-    "gh-pages": "^4.0.0"
+    "gh-pages": "^3.2.3"
   }
 }
