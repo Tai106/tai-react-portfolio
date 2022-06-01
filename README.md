@@ -21,7 +21,7 @@ A website that showcases some of my most recent projects.
 
 
 # Website Link
-* 
+* https://tai106.github.io/tai-react-portfolio/
 
 
 # Contributor
