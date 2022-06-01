@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/tai-react-portfolio/static/css/main.56ccc3c9.css",
-    "main.js": "/tai-react-portfolio/static/js/main.2f84138c.js",
+    "main.js": "/tai-react-portfolio/static/js/main.ad6b91ff.js",
     "static/js/787.6569668d.chunk.js": "/tai-react-portfolio/static/js/787.6569668d.chunk.js",
     "static/media/dinnection.png": "/tai-react-portfolio/static/media/dinnection.41d74b3eae9bd37601f1.png",
     "static/media/profile-pic.jpg": "/tai-react-portfolio/static/media/profile-pic.66727fdcff60fd3488b6.jpg",
@@ -14,11 +14,11 @@
     "static/media/stack-logo.JPG": "/tai-react-portfolio/static/media/stack-logo.e85fd8b3145e34d48daa.JPG",
     "index.html": "/tai-react-portfolio/index.html",
     "main.56ccc3c9.css.map": "/tai-react-portfolio/static/css/main.56ccc3c9.css.map",
-    "main.2f84138c.js.map": "/tai-react-portfolio/static/js/main.2f84138c.js.map",
+    "main.ad6b91ff.js.map": "/tai-react-portfolio/static/js/main.ad6b91ff.js.map",
     "787.6569668d.chunk.js.map": "/tai-react-portfolio/static/js/787.6569668d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.56ccc3c9.css",
-    "static/js/main.2f84138c.js"
+    "static/js/main.ad6b91ff.js"
   ]
 }
