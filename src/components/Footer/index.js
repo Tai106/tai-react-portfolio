@@ -31,13 +31,13 @@ function Footer() {
 			</div>
 			<div>
 				<a
-					href="https://stackoverflow.com/users/17120931/tai?tab=profile"
-					target="_blank"
+					href="https://taivonedwards1@gmail.com"
+					target="email"
 					rel=""
 				>
 					<img
-						src={require("../../assets/logos/stack-logo.JPG")}
-						alt="Stack overflow"
+						src={require("../../assets/logos/email-logo.png")}
+						alt="Email"
 						className="logo"
 					></img>
 				</a>
